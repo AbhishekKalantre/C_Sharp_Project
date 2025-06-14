@@ -1,0 +1,63 @@
+C:\Users\Abhishek Singh\Desktop\c#.net\MCA_Student_App\bin\Debug\MCA_Student_App.exe.config
+C:\Users\Abhishek Singh\Desktop\c#.net\MCA_Student_App\bin\Debug\MCA_Student_App.exe
+C:\Users\Abhishek Singh\Desktop\c#.net\MCA_Student_App\bin\Debug\MCA_Student_App.pdb
+C:\Users\Abhishek Singh\Desktop\c#.net\MCA_Student_App\obj\Debug\MCA_Student_App.csproj.AssemblyReference.cache
+C:\Users\Abhishek Singh\Desktop\c#.net\MCA_Student_App\obj\Debug\MCA_Student_App.Properties.Resources.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\MCA_Student_App\obj\Debug\MCA_Student_App.csproj.GenerateResource.cache
+C:\Users\Abhishek Singh\Desktop\c#.net\MCA_Student_App\obj\Debug\MCA_Student_App.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Singh\Desktop\c#.net\MCA_Student_App\obj\Debug\MCA_Student_App.exe
+C:\Users\Abhishek Singh\Desktop\c#.net\MCA_Student_App\obj\Debug\MCA_Student_App.pdb
+C:\Users\Abhishek Singh\Desktop\c#.net\MCA_Student_App\obj\Debug\MCA_Student_App.Frm_Login.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\MCA_Student_App\obj\Debug\MCA_Student_App.frm_add_student_detail.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\MCA_Student_App\obj\Debug\MCA_Student_App.frm_Student_list.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\New folder\MCA_Student_App\bin\Debug\MCA_Student_App.exe.config
+C:\Users\Abhishek Singh\Desktop\c#.net\New folder\MCA_Student_App\bin\Debug\MCA_Student_App.exe
+C:\Users\Abhishek Singh\Desktop\c#.net\New folder\MCA_Student_App\bin\Debug\MCA_Student_App.pdb
+C:\Users\Abhishek Singh\Desktop\c#.net\New folder\MCA_Student_App\obj\Debug\MCA_Student_App.csproj.AssemblyReference.cache
+C:\Users\Abhishek Singh\Desktop\c#.net\New folder\MCA_Student_App\obj\Debug\MCA_Student_App.frm_add_student_detail.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\New folder\MCA_Student_App\obj\Debug\MCA_Student_App.Frm_Login.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\New folder\MCA_Student_App\obj\Debug\MCA_Student_App.frm_Student_list.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\New folder\MCA_Student_App\obj\Debug\MCA_Student_App.Properties.Resources.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\New folder\MCA_Student_App\obj\Debug\MCA_Student_App.csproj.GenerateResource.cache
+C:\Users\Abhishek Singh\Desktop\c#.net\New folder\MCA_Student_App\obj\Debug\MCA_Student_App.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Singh\Desktop\c#.net\New folder\MCA_Student_App\obj\Debug\MCA_Student_App.exe
+C:\Users\Abhishek Singh\Desktop\c#.net\New folder\MCA_Student_App\obj\Debug\MCA_Student_App.pdb
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-2\MCA_Student_App\bin\Debug\MCA_Student_App.exe.config
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-2\MCA_Student_App\bin\Debug\MCA_Student_App.exe
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-2\MCA_Student_App\bin\Debug\MCA_Student_App.pdb
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-2\MCA_Student_App\obj\Debug\MCA_Student_App.csproj.AssemblyReference.cache
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-2\MCA_Student_App\obj\Debug\MCA_Student_App.frm_add_student_detail.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-2\MCA_Student_App\obj\Debug\MCA_Student_App.Frm_Login.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-2\MCA_Student_App\obj\Debug\MCA_Student_App.frm_Student_list.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-2\MCA_Student_App\obj\Debug\MCA_Student_App.Properties.Resources.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-2\MCA_Student_App\obj\Debug\MCA_Student_App.csproj.GenerateResource.cache
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-2\MCA_Student_App\obj\Debug\MCA_Student_App.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-2\MCA_Student_App\obj\Debug\MCA_Student_App.exe
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-2\MCA_Student_App\obj\Debug\MCA_Student_App.pdb
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-2\MCA_Student_App\obj\Debug\MCA_Student_App.frm_Search_Student_Detail.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-3\MCA_Student_App\bin\Debug\MCA_Student_App.exe.config
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-3\MCA_Student_App\bin\Debug\MCA_Student_App.exe
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-3\MCA_Student_App\bin\Debug\MCA_Student_App.pdb
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-3\MCA_Student_App\obj\Debug\MCA_Student_App.csproj.AssemblyReference.cache
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-3\MCA_Student_App\obj\Debug\MCA_Student_App.frm_add_student_detail.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-3\MCA_Student_App\obj\Debug\MCA_Student_App.Frm_Login.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-3\MCA_Student_App\obj\Debug\MCA_Student_App.frm_Student_list.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-3\MCA_Student_App\obj\Debug\MCA_Student_App.Properties.Resources.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-3\MCA_Student_App\obj\Debug\MCA_Student_App.frm_Search_Student_Detail.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-3\MCA_Student_App\obj\Debug\MCA_Student_App.csproj.GenerateResource.cache
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-3\MCA_Student_App\obj\Debug\MCA_Student_App.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-3\MCA_Student_App\obj\Debug\MCA_Student_App.exe
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-3\MCA_Student_App\obj\Debug\MCA_Student_App.pdb
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-4\MCA_Student_App\bin\Debug\MCA_Student_App.exe.config
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-4\MCA_Student_App\bin\Debug\MCA_Student_App.exe
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-4\MCA_Student_App\bin\Debug\MCA_Student_App.pdb
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-4\MCA_Student_App\obj\Debug\MCA_Student_App.csproj.AssemblyReference.cache
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-4\MCA_Student_App\obj\Debug\MCA_Student_App.frm_add_student_detail.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-4\MCA_Student_App\obj\Debug\MCA_Student_App.Frm_Login.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-4\MCA_Student_App\obj\Debug\MCA_Student_App.frm_Student_list.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-4\MCA_Student_App\obj\Debug\MCA_Student_App.Properties.Resources.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-4\MCA_Student_App\obj\Debug\MCA_Student_App.frm_Search_Student_Detail.resources
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-4\MCA_Student_App\obj\Debug\MCA_Student_App.csproj.GenerateResource.cache
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-4\MCA_Student_App\obj\Debug\MCA_Student_App.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-4\MCA_Student_App\obj\Debug\MCA_Student_App.exe
+C:\Users\Abhishek Singh\Desktop\c#.net\Assignment-4\MCA_Student_App\obj\Debug\MCA_Student_App.pdb
